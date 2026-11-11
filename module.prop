@@ -1,0 +1,6 @@
+id=wifi_priority_manager
+name=WiFi Priority Manager
+version=v1.0.0
+versionCode=100
+author=Sunny081209
+description=Multi-level priority WiFi auto-connect & preemption manager with Material Design 3 KsuWebUI.

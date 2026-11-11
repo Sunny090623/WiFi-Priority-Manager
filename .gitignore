@@ -1,0 +1,4 @@
+*.md
+*.zip
+*.log
+!README.md
